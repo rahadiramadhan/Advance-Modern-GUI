@@ -7,7 +7,7 @@ Released By Rahadi Ramadhan Author this Project.
 Rahadi Ramadhan
 Ramadhan Fattah Yahya.
 
-Fullstack Developer 
+Fullstack Developer, Multi Talent in Industry Coding & Design.
 
 
 you can See Documentation link here https:\\advancemoderngui.com
