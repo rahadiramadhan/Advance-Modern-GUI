@@ -4,8 +4,8 @@ Suitable Game engine, Application and more Application not GUI with C++ From scr
 
 
 Released By Rahadi Ramadhan Author this Project.
-Rahadi Ramadhan
-Ramadhan Fattah Yahya.
+Rahadi Ramadhan <br>
+Ramadhan Fattah Yahya . <br>
 
 Fullstack Developer, Multi Talent in Industry Coding & Design.
 
